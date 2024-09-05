@@ -1,0 +1,77 @@
+.posts {
+    position: relative;
+    top: 30px;
+    width: 100%;
+    height: 100%;
+}
+.createPost {
+    width: 600px;
+    background-color: white;
+    border-radius: 15px;
+   
+}
+
+
+.inputHead {
+    border-radius: 10px;
+    width: 80%;
+    padding: 5px;    
+    margin: 10px;
+}
+input[type="file"] {
+    display: none;
+}
+.createButt {
+    background-color: rgb(24, 164, 235);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    color: white;
+    float: right;
+}
+.createButt:hover {
+    background-color: rgb(24, 143, 203);
+} 
+
+.CreatePostPhotoIcon {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    top: 8px;
+    
+}
+.CreatePostPhotoIcon:hover {
+    color: rgb(24, 164, 235);
+}
+.newPostText {
+    border-radius: 5px;
+    margin:10px;
+    width: 93%;
+    height: 90px;
+    padding: 10px;
+    resize: none;
+    outline: none;
+}
+
+.PostsDiv {
+    display: flex;
+    justify-content: center;
+}
+.post {
+    border-radius: 15px;
+    background-color: white;
+    width: 600px;
+    margin: 10px;
+}
+.imgPost {
+    margin: 15px;
+    width: 95%;
+    border-radius:15px ;
+
+}
+
+.post p,h2 {
+    margin: 15px;
+}
+
+

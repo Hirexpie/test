@@ -1,0 +1,42 @@
+.MyProfForm {
+    background-color: white;
+    width: 700px;
+    border-radius: 15px;
+    margin: 10px;
+    display:flex;
+}
+
+.MyProfInfo {
+    margin: 10px;
+    width: 100%;
+}
+.MyProfInfo p {
+    margin: 5px;
+    cursor: pointer;
+}
+.MyProfInfo h3 {
+    margin: 5px;
+}
+.infoIcon {
+    position: relative;
+    top:5px;
+    width: 20px;
+    height: 20px;
+}
+.MyProfButt {
+    float:right; 
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+    margin: 5px;
+}
+.avaMyProf {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width:1px ;
+    margin: 10px;
+    
+}
